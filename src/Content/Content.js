@@ -6,6 +6,7 @@ const Content= ()=>{
         // Outr box
         <Box sx={{
             marginTop: '100px',
+            marginBottom: '100px',
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'space-evenly'
